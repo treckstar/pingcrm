@@ -13,17 +13,14 @@
         "guzzlehttp/guzzle": "^7.0.1",
         "inertiajs/inertia-laravel": "^0.6.4",
         "innocenzi/laravel-vite": "0.2.*",
-        "laravel/framework": "^8.65",
-        "laravel/sanctum": "^2.11",
+        "laravel/framework": "^9.0",
+        "laravel/sanctum": "^3.0",
         "laravel/tinker": "^2.5",
         "league/glide-laravel": "^1.0"
     },
     "require-dev": {
-        "roave/security-advisories": "dev-latest",
-        "facade/ignition": "^2.5",
         "laravel/sail": "^1.0.1",
         "mockery/mockery": "^1.4.4",
-        "nunomaduro/collision": "^5.10",
         "phpunit/phpunit": "^9.5.10"
     },
     "autoload": {
